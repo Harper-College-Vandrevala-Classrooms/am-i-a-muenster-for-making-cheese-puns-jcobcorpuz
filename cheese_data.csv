@@ -1,5 +1,5 @@
 CheeseId,ManufacturerProvCode,ManufacturingTypeEn,MoisturePercent,FlavourEn,CharacteristicsEn,Organic,CategoryTypeEn,MilkTypeEn,MilkTreatmentTypeEn,RindTypeEn,CheeseName,FatLevel
-228,NB,Farmstead,47.0,"Sharp, lactic",Uncooked,0,Firm Cheese,Ewe,Raw Milk,Washed Rind,Sieur de Duplessis (Le),lower fat
+228,NB,Farmstead,47.0,"Sharp, lactic",Uncooked,0,Firm Cheese,Ewe,,Washed Rind,Sieur de Duplessis (Le),lower fat
 242,NB,Farmstead,47.9,"Sharp, lactic, lightly caramelized",Uncooked,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Tomme Le Champ Doré,lower fat
 301,ON,Industrial,54.0,"Mild, tangy, and fruity","Pressed and cooked cheese, pasta filata, interiror ripened",0,Firm Cheese,Cow,Pasteurized,,Provolone Sette Fette (Tre-Stelle),lower fat
 303,NB,Farmstead,47.0,Sharp with fruity notes and a hint of wild honey,,0,Veined Cheeses,Cow,Raw Milk,,Geai Bleu (Le),lower fat

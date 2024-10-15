@@ -1,0 +1,4 @@
+Number of cheeses with pasteurized milk: 430
+Number of cheeses with raw milk: 60
+Number of organic cheeses with moisture greater than 41.0%: 26
+Most common milk type in Canadian cheeses: Cow
