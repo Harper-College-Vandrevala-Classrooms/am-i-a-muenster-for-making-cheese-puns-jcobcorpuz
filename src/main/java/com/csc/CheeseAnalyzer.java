@@ -171,7 +171,6 @@ public class CheeseAnalyzer {
         }
     }
 
-
     public static void main(String[] args) {
         CheeseReader reader = new CheeseReader("cheese_data.csv");
         CheeseList list = reader.readCheeses();
